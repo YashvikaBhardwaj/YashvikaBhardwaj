@@ -1,4 +1,4 @@
-# README.md
+
 
 <h1 align="center">Hi 👋, I'm Yashvika Bhardwaj</h1>
 <h3 align="center">Aspiring Developer | UI Designer | AI Learner</h3>
